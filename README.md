@@ -1,6 +1,6 @@
 <!-- GitHub Profile README -->
 
-<h1 align="center">Hi there 👋, I'm <span style="color:#00BFFF;">Your Name</span></h1>
+<h1 align="center">Hi there 👋, I'm <span style="color:#00BFFF;">AegonSnow</span></h1>
 <h3 align="center">🚀 Developer | 🎨 Designer | 🧠 Lifelong Learner</h3>
 
 <p align="center">
