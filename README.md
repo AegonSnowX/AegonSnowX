@@ -15,7 +15,7 @@
   <li>🔭 I’m currently working on <strong>awesome open-source projects</strong></li>
   <li>🌱 I’m learning <code>TypeScript</code>, <code>Next.js</code>, and AI stuff 🤖</li>
   <li>💬 Ask me about <strong>frontend dev, UI/UX, or tech tips</strong></li>
-  <li>📫 Reach me at: <a href="mailto:youremail@example.com">youremail@example.com</a></li>
+  <li>📫 Reach me at: <a href="mailto:youremail@example.com">Sahajswag3500@gmail.com</a></li>
   <li>😄 Pronouns: <strong>he/him</strong> or <strong>they/them</strong></li>
   <li>⚡ Fun fact: I can code faster with coffee ☕️</li>
 </ul>
@@ -55,7 +55,7 @@
   <a href="https://yourportfolio.com" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-grey?style=flat&logo=google-chrome&logoColor=white" />
   </a>
-  <a href="mailto:youremail@example.com">
+  <a href="mailto:Sahajswag3500@gmail.com>
     <img src="https://img.shields.io/badge/Email-red?style=flat&logo=gmail&logoColor=white" />
   </a>
 </p>
