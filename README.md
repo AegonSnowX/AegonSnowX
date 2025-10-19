@@ -22,15 +22,44 @@
 
 ---
 
-<h2>🛠️ Tech Stack</h2>
+<!-- Skills & Tech Stack -->
+<h2>⚒️ Skills & Tech Stack</h2>
 
-<p>
-  <img src="https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=F7DF1E" />
-  <img src="https://img.shields.io/badge/Code-HTML5-informational?style=flat&logo=html5&logoColor=white&color=E34F26" />
-  <img src="https://img.shields.io/badge/Code-CSS3-informational?style=flat&logo=css3&logoColor=white&color=1572B6" />
-  <img src="https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=git&logoColor=white&color=F05032" />
-  <img src="https://img.shields.io/badge/Tools-VSCode-informational?style=flat&logo=visual-studio-code&logoColor=white&color=007ACC" />
-</p>
+<h3>Languages</h3>
+<span style="background:#c5c5c5; color:black; padding:2px 8px; border-radius:4px; margin:2px;">C</span>
+<span style="background:#2566ab; color:white; padding:2px 8px; border-radius:4px; margin:2px;">C++</span>
+<span style="background:#23905d; color:white; padding:2px 8px; border-radius:4px; margin:2px;">C#</span>
+<span style="background:#3875a7; color:white; padding:2px 8px; border-radius:4px; margin:2px;">Python</span>
+<span style="background:#efd81d; color:black; padding:2px 8px; border-radius:4px; margin:2px;">JavaScript</span>
+<span style="background:#e54d26; color:white; padding:2px 8px; border-radius:4px; margin:2px;">HTML</span>
+<span style="background:#2965f1; color:white; padding:2px 8px; border-radius:4px; margin:2px;">CSS</span>
+
+<h3>Game Engines</h3>
+<span style="background:#232323; color:white; padding:2px 8px; border-radius:4px; margin:2px;">Unity</span>
+<span style="background:#27263e; color:white; padding:2px 8px; border-radius:4px; margin:2px;">Unreal Engine</span>
+<span style="background:#5fa7df; color:white; padding:2px 8px; border-radius:4px; margin:2px;">Godot</span>
+
+<h3>Tools & IDEs</h3>
+<span style="background:#7d4ab4; color:white; padding:2px 8px; border-radius:4px; margin:2px;">Visual Studio</span>
+<span style="background:#222; color:white; padding:2px 8px; border-radius:4px; margin:2px;">JetBrains Rider</span>
+<span style="background:#d75b4b; color:white; padding:2px 8px; border-radius:4px; margin:2px;">Git</span>
+<span style="background:#4cc2a0; color:white; padding:2px 8px; border-radius:4px; margin:2px;">GitKraken</span>
+<span style="background:#222; color:white; padding:2px 8px; border-radius:4px; margin:2px;">Notion</span>
+<span style="background:#4096e5; color:white; padding:2px 8px; border-radius:4px; margin:2px;">Trello</span>
+<span style="background:#2776be; color:white; padding:2px 8px; border-radius:4px; margin:2px;">JIRA</span>
+
+<h3>Creative & Design Tools</h3>
+<span style="background:#e95d3c; color:white; padding:2px 8px; border-radius:4px; margin:2px;">Blender</span>
+<span style="background:#4da3db; color:white; padding:2px 8px; border-radius:4px; margin:2px;">Adobe Photoshop</span>
+<span style="background:#a687c7; color:white; padding:2px 8px; border-radius:4px; margin:2px;">Adobe Premiere Pro</span>
+<span style="background:#3da99a; color:white; padding:2px 8px; border-radius:4px; margin:2px;">Audition</span>
+
+<h3>Concepts & Specialties</h3>
+<span style="background:#3875a7; color:white; padding:2px 8px; border-radius:4px; margin:2px;">OOP</span>
+<span style="background:#ead128; color:black; padding:2px 8px; border-radius:4px; margin:2px;">Game Design</span>
+<span style="background:#3875a7; color:white; padding:2px 8px; border-radius:4px; margin:2px;">Level Design</span>
+<span style="background:#eb7ab5; color:white; padding:2px 8px; border-radius:4px; margin:2px;">UI & UX Design</span>
+
 
 ---
 
