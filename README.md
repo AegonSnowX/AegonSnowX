@@ -21,47 +21,42 @@
 </ul>
 
 ---
+### 🛠️ Skills & Tech Stack
 
-<!-- Skills & Tech Stack -->
-<h2>⚒️ Skills & Tech Stack</h2>
+**Languages:**  
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-<h3>Languages</h3>
-<span style="background:#c5c5c5; color:black; padding:2px 8px; border-radius:4px; margin:2px;">C</span>
-<span style="background:#2566ab; color:white; padding:2px 8px; border-radius:4px; margin:2px;">C++</span>
-<span style="background:#23905d; color:white; padding:2px 8px; border-radius:4px; margin:2px;">C#</span>
-<span style="background:#3875a7; color:white; padding:2px 8px; border-radius:4px; margin:2px;">Python</span>
-<span style="background:#efd81d; color:black; padding:2px 8px; border-radius:4px; margin:2px;">JavaScript</span>
-<span style="background:#e54d26; color:white; padding:2px 8px; border-radius:4px; margin:2px;">HTML</span>
-<span style="background:#2965f1; color:white; padding:2px 8px; border-radius:4px; margin:2px;">CSS</span>
+**Game Engines:**  
+![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
+![Unreal Engine](https://img.shields.io/badge/Unreal_Engine-0E1128?style=for-the-badge&logo=unrealengine&logoColor=white)
+![Godot](https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=godot-engine&logoColor=white)
 
-<h3>Game Engines</h3>
-<span style="background:#232323; color:white; padding:2px 8px; border-radius:4px; margin:2px;">Unity</span>
-<span style="background:#27263e; color:white; padding:2px 8px; border-radius:4px; margin:2px;">Unreal Engine</span>
-<span style="background:#5fa7df; color:white; padding:2px 8px; border-radius:4px; margin:2px;">Godot</span>
+**Tools & IDEs:**  
+![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white)
+![Rider](https://img.shields.io/badge/Rider-000000?style=for-the-badge&logo=rider&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
+![GitKraken](https://img.shields.io/badge/GitKraken-179287?style=for-the-badge&logo=gitkraken&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
+![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 
-<h3>Tools & IDEs</h3>
-<span style="background:#7d4ab4; color:white; padding:2px 8px; border-radius:4px; margin:2px;">Visual Studio</span>
-<span style="background:#222; color:white; padding:2px 8px; border-radius:4px; margin:2px;">JetBrains Rider</span>
-<span style="background:#d75b4b; color:white; padding:2px 8px; border-radius:4px; margin:2px;">Git</span>
-<span style="background:#4cc2a0; color:white; padding:2px 8px; border-radius:4px; margin:2px;">GitKraken</span>
-<span style="background:#222; color:white; padding:2px 8px; border-radius:4px; margin:2px;">Notion</span>
-<span style="background:#4096e5; color:white; padding:2px 8px; border-radius:4px; margin:2px;">Trello</span>
-<span style="background:#2776be; color:white; padding:2px 8px; border-radius:4px; margin:2px;">JIRA</span>
+**Creative & Design Tools:**  
+![Blender](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white)
+![Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)
+![Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF?style=for-the-badge&logo=adobepremierepro&logoColor=white)
+![Audition](https://img.shields.io/badge/Adobe%20Audition-9999FF?style=for-the-badge&logo=adobeaudition&logoColor=white)
 
-<h3>Creative & Design Tools</h3>
-<span style="background:#e95d3c; color:white; padding:2px 8px; border-radius:4px; margin:2px;">Blender</span>
-<span style="background:#4da3db; color:white; padding:2px 8px; border-radius:4px; margin:2px;">Adobe Photoshop</span>
-<span style="background:#a687c7; color:white; padding:2px 8px; border-radius:4px; margin:2px;">Adobe Premiere Pro</span>
-<span style="background:#3da99a; color:white; padding:2px 8px; border-radius:4px; margin:2px;">Audition</span>
-
-<h3>Concepts & Specialties</h3>
-<span style="background:#3875a7; color:white; padding:2px 8px; border-radius:4px; margin:2px;">OOP</span>
-<span style="background:#ead128; color:black; padding:2px 8px; border-radius:4px; margin:2px;">Game Design</span>
-<span style="background:#3875a7; color:white; padding:2px 8px; border-radius:4px; margin:2px;">Level Design</span>
-<span style="background:#eb7ab5; color:white; padding:2px 8px; border-radius:4px; margin:2px;">UI & UX Design</span>
-
-
----
+**Concepts & Specialties:**  
+![OOP](https://img.shields.io/badge/OOP-2E8BFF?style=for-the-badge)
+![Game Design](https://img.shields.io/badge/Game%20Design-F2B705?style=for-the-badge)
+![Level Design](https://img.shields.io/badge/Level%20Design-007ACC?style=for-the-badge)
+![UI/UX Design](https://img.shields.io/badge/UI%20%26%20UX%20Design-FF69B4?style=for-the-badge)
 
 <h2>📈 GitHub Stats</h2>
 
