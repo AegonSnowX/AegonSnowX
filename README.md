@@ -12,12 +12,12 @@
 <h2>💫 About Me</h2>
 
 <ul>
-  <li>🔭 I’m currently working on <strong>awesome open-source projects</strong></li>
-  <li>🌱 I’m learning <code>TypeScript</code>, <code>Next.js</code>, and AI stuff 🤖</li>
-  <li>💬 Ask me about <strong>frontend dev, UI/UX, or tech tips</strong></li>
+  <li>🔭 I’m currently working on <strong>Zombie Gunship Game</strong></li>
+  <li>🌱 I’m learning <code>Unreal</code>, <code>C++</code>, and AI stuff 🤖</li>
+  <li>💬 Ask me about <strong>Unreal, UI/UX, or tech tips</strong></li>
   <li>📫 Reach me at: <a href="mailto:youremail@example.com">Sahajswag3500@gmail.com</a></li>
   <li>😄 Pronouns: <strong>he/him</strong> or <strong>they/them</strong></li>
-  <li>⚡ Fun fact: I can code faster with coffee ☕️</li>
+  <li>⚡ Fun fact: I can code faster with White Monster ☕️</li>
 </ul>
 
 ---
