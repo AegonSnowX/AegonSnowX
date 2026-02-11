@@ -12,7 +12,7 @@
 <h2>💫 About Me</h2>
 
 <ul>
-  <li>🔭 I’m currently working on <strong>Zombie Gunship Game</strong></li>
+  <li>🔭 I’m currently working on <strong>3D Modeling</strong></li>
   <li>🌱 I’m learning <code>Unreal</code>, <code>C++</code>, and AI stuff 🤖</li>
   <li>💬 Ask me about <strong>Unreal, UI/UX, or tech tips</strong></li>
   <li>📫 Reach me at: <a href="mailto:youremail@example.com">Sahajswag3500@gmail.com</a></li>
@@ -27,7 +27,6 @@
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -70,13 +69,10 @@
 <h2>🌐 Let's Connect</h2>
 
 <p>
-  <a href="https://linkedin.com/in/yourname" target="_blank">
+  <a href="https://www.linkedin.com/in/sahaj-ks/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://twitter.com/yourhandle" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-black?style=flat&logo=twitter&logoColor=white" />
-  </a>
-  <a href="https://yourportfolio.com" target="_blank">
+  <a href="https://aegonsnowx.github.io/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-grey?style=flat&logo=google-chrome&logoColor=white" />
   </a>
   <a href="mailto:Sahajswag3500@gmail.com>
